@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?MaxMccartney)
 
 <div align="center"> 
-  <img width="600" src="https://i.postimg.cc/BQyj8bHL/tumblr-8d09ebe592607b6701843b1132f4745c-9c8aad34-540.gif" alt="gggg">
+  <img src="https://i.postimg.cc/BQyj8bHL/tumblr-8d09ebe592607b6701843b1132f4745c-9c8aad34-540.gif" alt="gggg">
 
 </div>
 
